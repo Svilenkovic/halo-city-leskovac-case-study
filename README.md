@@ -4,7 +4,7 @@
 
 Five-page site for a phone shop and repair service in Leskovac, where every call to action is a phone call or a Viber message.
 
-**[halocity.svilenkovic.rs](https://halocity.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/halo-city-leskovac) · [Srpski](README.sr.md)
+**[halocity.svilenkovic.rs](https://halocity.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/halo-city-leskovac) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > Client project. The source code belongs to the client and stays in a private repository. This page describes what I built and how.
@@ -40,7 +40,7 @@ Stock and prices change too often for a website, so the site publishes neither a
 | Mobile | 96 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `MobilePhoneStore`, `Organization`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `FAQPage`, `MobilePhoneStore`, `Organization`.
 
 ## Screenshots
 
